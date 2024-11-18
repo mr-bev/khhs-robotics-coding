@@ -54,5 +54,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+plugins:
+ - mkdocstrings
+ 
 copyright: |
   &copy; 2024 <a href="https://github.com/mr-bev" target="_blank" rel="noopener">Aaron Beverley</a>
