@@ -1,6 +1,8 @@
 site_name: Killarney Heights High School - Coding and Robotics Club
 theme:
   name: material
+  logo: resources/killarney-heights-high-school-logo.png
+  favicon: resources/killarney-heights-high-school-logo.png
   features: 
     - navigation.tabs
     - navigation.sections

@@ -3,6 +3,8 @@
 ## Setup
 The easiest way to get started is to use the online tool from Microsoft [https://makecode.microbit.org/](https://makecode.microbit.org/){target="_blank"} and try any of the Tutorials for the new micro:bit (v2). You can also find code below the demonstrates most of the sensors and features of the micro:bit.
 
+You can also follow the [Getting Started tutorial](https://makecode.microbit.org/tutorials/getting-started){target="_blank"} which will get you connected with the Micro:bit.
+
 ## Hardware
 ![Micro:bit Hardware](../resources/microbit_v2.png)
 
